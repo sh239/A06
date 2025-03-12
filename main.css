@@ -41,7 +41,6 @@ footer p {
     text-align: center;
 }
 
-/* Text Shadow for 75th */
 .shadow {
     text-shadow: 2px 2px 4px var(--global-color-1);
 }
